@@ -1,2 +1,329 @@
 **/*.log
 
+Time
+IP Address
+Request
+Device
+Country
+Size (bytes)
+Response time (ms)
+2022-08-04
+02:40:40
+209.141.51.222
+GET / HTTP/1.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+United States of America
+22787
+1638
+2022-08-04
+02:33:10
+40.77.167.57
+GET /scrap-metal HTTP/2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+United States of America
+0
+630
+2022-08-04
+02:23:00
+180.190.165.165
+GET /wp-content/plugins/elementor/assets/lib/backbone/backbone.marionette.min.js?ver=2.4.5.e1 HTTP/2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+Philippines
+11116
+17660
+2022-08-04
+02:23:00
+180.190.165.165
+GET /wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2 HTTP/2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+Philippines
+3984
+10086
+2022-08-04
+02:23:00
+180.190.165.165
+GET /wp-includes/js/jquery/jquery.min.js?ver=3.6.0 HTTP/2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+Philippines
+30027
+9593
+2022-08-04
+02:23:00
+180.190.165.165
+GET /wp-includes/js/imagesloaded.min.js?ver=4.1.4 HTTP/2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+Philippines
+1721
+10066
+2022-08-04
+02:12:49
+157.55.39.206
+GET /tag/scrap-steel-prices-perth/ HTTP/2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+United States of America
+16535
+1312940
+2022-08-04
+02:12:40
+157.55.39.206
+GET /tag/scrap-steel-prices-perth HTTP/2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+United States of America
+0
+2807563
+2022-08-04
+02:12:40
+2a02:4780:3:15::b
+POST /wp-cron.php?doing_wp_cron=1659550359.5101370811462402343750 HTTP/1.1
+WordPress/6.0.1; https://www.1300gotscrap.com.au
+Cyprus
+0
+822126
+2022-08-04
+02:02:47
+40.77.167.57
+GET /scrap-metal HTTP/2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+United States of America
+0
+710
+2022-08-04
+01:41:46
+157.55.39.206
+GET /tag/scrap-copper-prices HTTP/2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+United States of America
+0
+1654695
+2022-08-04
+01:41:46
+2a02:4780:3:15::b
+POST /wp-cron.php?doing_wp_cron=1659548505.9040589332580566406250 HTTP/1.1
+WordPress/6.0.1; https://www.1300gotscrap.com.au
+Cyprus
+0
+803004
+2022-08-04
+01:32:24
+40.77.167.57
+GET /scrap-metal/ HTTP/2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+United States of America
+17557
+808
+2022-08-04
+01:23:35
+216.169.136.251
+GET /wp-content/plugins/youtube-channel/assets/lib/magnific-popup/jquery.magnific-popup.min.js?ver=3.0.12.1 HTTP/2
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1
+United States of America
+4544
+671083
+2022-08-04
+01:23:34
+216.169.136.251
+GET /wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.15.1 HTTP/2
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1
+United States of America
+12319
+146428
+2022-08-04
+01:23:34
+216.169.136.251
+GET /wp-content/plugins/wpforms-lite/assets/css/wpforms-full.min.css?ver=1.7.5.5 HTTP/2
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1
+United States of America
+5106
+145968
+2022-08-04
+01:23:33
+216.169.136.251
+GET / HTTP/2
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1
+United States of America
+30281
+1665
+2022-08-04
+01:01:50
+40.77.167.57
+GET /scrap-metal HTTP/2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+United States of America
+0
+1019
+2022-08-04
+00:52:01
+35.246.65.127
+HEAD / HTTP/1.1
+Go-http-client/1.1
+United Kingdom of Great Britain and Northern Ireland
+0
+627791
+2022-08-04
+00:52:01
+2a02:4780:3:15::b
+POST /wp-cron.php?doing_wp_cron=1659545521.2988169193267822265625 HTTP/1.1
+WordPress/6.0.1; https://www.1300gotscrap.com.au
+Cyprus
+0
+300723
+2022-08-04
+00:45:13
+2a02:4780:3:15::b
+POST /wp-cron.php?doing_wp_cron=1659545111.4534199237823486328125 HTTP/1.1
+WordPress/6.0.1; https://www.1300gotscrap.com.au
+Cyprus
+0
+1942935
+2022-08-04
+00:45:12
+40.77.167.57
+GET /tag/scrap-metal-near-me HTTP/2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+United States of America
+0
+1255261
+2022-08-04
+00:40:39
+157.55.39.206
+GET /tag/iron-metals/ HTTP/2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+United States of America
+16504
+898829
+2022-08-04
+00:40:39
+2a02:4780:3:15::b
+POST /wp-cron.php?doing_wp_cron=1659544838.9169309139251708984375 HTTP/1.1
+WordPress/6.0.1; https://www.1300gotscrap.com.au
+Cyprus
+0
+219096
+2022-08-04
+00:10:26
+40.77.167.57
+GET /scrap-metal HTTP/2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+United States of America
+0
+1094
+2022-08-04
+00:09:41
+2a02:4780:3:15::b
+POST /wp-cron.php?doing_wp_cron=1659542977.2042050361633300781250 HTTP/1.1
+WordPress/6.0.1; https://www.1300gotscrap.com.au
+Cyprus
+0
+3975317
+2022-08-04
+00:09:41
+3.216.105.167
+GET / HTTP/2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+United States of America
+22787
+1329
+2022-08-04
+00:09:41
+3.216.105.167
+GET / HTTP/2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+United States of America
+0
+24728
+2022-08-04
+00:09:40
+3.216.105.167
+GET / HTTP/1.1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+United States of America
+707
+9119
+2022-08-04
+00:09:40
+3.216.105.167
+GET / HTTP/2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3202.583 Safari/537.36
+United States of America
+0
+3522
+2022-08-04
+00:09:39
+3.216.105.167
+GET / HTTP/1.1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3202.583 Safari/537.36
+United States of America
+707
+99
+2022-08-04
+00:09:39
+3.216.105.167
+GET / HTTP/2
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.0 Safari/537.36
+United States of America
+22787
+642
+2022-08-04
+00:09:38
+3.216.105.167
+GET / HTTP/2
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.0 Safari/537.36
+United States of America
+0
+3649522
+2022-08-04
+00:09:37
+2a02:4780:3:15::b
+GET / HTTP/1.1
+WordPress/6.0.1; https://www.1300gotscrap.com.au
+Cyprus
+22787
+3905
+2022-08-04
+00:09:34
+3.216.105.167
+GET / HTTP/1.1
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.0 Safari/537.36
+United States of America
+707
+186
+2022-08-03
+23:07:40
+40.77.167.57
+GET /scrap-metal/ HTTP/2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+United States of America
+17557
+725
+2022-08-03
+21:32:00
+40.77.167.57
+GET /scrap-metal/ HTTP/2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+United States of America
+17557
+693
+2022-08-03
+21:31:51
+40.77.167.57
+GET /scrap-metal HTTP/2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+United States of America
+0
+747
+2022-08-03
+21:03:09
+136.243.228.197
+GET /comments/feed/ HTTP/1.1
+Mozilla/5.0 (compatible; DataForSeoBot/1.0; +https://dataforseo.com/dataforseo-bot)
+Germany
+458
+874
+2022-08-03
+21:00:47
+40.77.167.57
+GET /scrap-metal HTTP/2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+United States of America
+0
+934
